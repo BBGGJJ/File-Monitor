@@ -1,0 +1,17 @@
+D:\study\C#\unit\Class01\文件监控处理应用\bin\Debug\文件监控处理应用.exe.config
+D:\study\C#\unit\Class01\文件监控处理应用\bin\Debug\文件监控处理应用.exe
+D:\study\C#\unit\Class01\文件监控处理应用\bin\Debug\文件监控处理应用.pdb
+D:\study\C#\unit\Class01\文件监控处理应用\obj\Debug\文件监控处理应用.csproj.AssemblyReference.cache
+D:\study\C#\unit\Class01\文件监控处理应用\obj\Debug\文件监控处理应用.文件监控.resources
+D:\study\C#\unit\Class01\文件监控处理应用\obj\Debug\文件监控处理应用.Properties.Resources.resources
+D:\study\C#\unit\Class01\文件监控处理应用\obj\Debug\文件监控处理应用.csproj.GenerateResource.cache
+D:\study\C#\unit\Class01\文件监控处理应用\obj\Debug\文件监控处理应用.csproj.CoreCompileInputs.cache
+D:\study\C#\unit\Class01\文件监控处理应用\obj\Debug\文件监控处理应用.exe
+D:\study\C#\unit\Class01\文件监控处理应用\obj\Debug\文件监控处理应用.pdb
+D:\study\C#\unit\Class01\文件监控处理应用\obj\Debug\文件监控处理应用.exe.config
+D:\study\C#\unit\Class01\文件监控处理应用\bin\Debug\Newtonsoft.Json.dll
+D:\study\C#\unit\Class01\文件监控处理应用\obj\Debug\文件监控处理应用.csproj.Up2Date
+D:\study\C#\unit\Class01\文件监控处理应用\bin\Debug\文件监控处理应用.exe.manifest
+D:\study\C#\unit\Class01\文件监控处理应用\bin\Debug\文件监控处理应用.application
+D:\study\C#\unit\Class01\文件监控处理应用\obj\Debug\文件监控处理应用.exe.manifest
+D:\study\C#\unit\Class01\文件监控处理应用\obj\Debug\文件监控处理应用.application
